@@ -37,7 +37,7 @@ btn.addEventListener("click",function(e){
         console.log(newYear);
         newRow.appendChild(newYear);
 
-        //Final Touch
+        //Final Touch Check
         bookList.appendChild(newRow);
     }
 })
